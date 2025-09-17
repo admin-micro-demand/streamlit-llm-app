@@ -1,0 +1,10 @@
+# 仮想環境
+env/
+
+# 環境変数ファイル
+.env
+
+# Python キャッシュなど
+__pycache__/
+*.pyc
+.DS_Store
